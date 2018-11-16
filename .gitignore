@@ -47,3 +47,5 @@ Desktop.ini
 # NuGet Packages Directory
 ## TODO: If you have NuGet Package Restore enabled, uncomment the next line
 packages/
+/.vs
+/src/.vs/RazorDisplayEditorTemplates/v15/Server/sqlite3

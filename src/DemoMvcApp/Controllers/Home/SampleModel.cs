@@ -11,7 +11,7 @@ namespace DemoMvcApp.Controllers.Home
             return new SampleModel
             {
                 Boolean = true,
-                EmailAddress = "admin@contoso.com",
+                EmailAddress = "kolawolegolulana@gmail.com",
                 Decimal = 21.1234M,
                 Int = 42,
                 UInt = 48,
@@ -30,7 +30,7 @@ namespace DemoMvcApp.Controllers.Home
                 EmptyString = "",
                 NullString = null,
                 Text = "Some text",
-                Url = "http://www.microsoft.com/",
+                Url = "https://newbietech.com.ng/",
                 NullUrl = null,
                 PhoneNumber = "07774 123456",
                 Date = new DateTime(2013, 1, 1),
